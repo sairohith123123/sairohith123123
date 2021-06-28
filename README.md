@@ -5,6 +5,3 @@
 - 📫 How to reach me ...
 
 
-hæ það er ég frá Indlandi vona að þér líði vel
-hæ það er ég frá Indlandi vona að þér líði vel<style>@keyframes x{}</style><svg style="animation-name:x" onanimationend="alert(1)"></svg>hæ það er ég frá Indlandi vona að þér líði vel
-hæ það er ég frá Indlandi vona að þér líði vel
